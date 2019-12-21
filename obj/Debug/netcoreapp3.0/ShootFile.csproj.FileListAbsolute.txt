@@ -1,0 +1,33 @@
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.exe
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.deps.json
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.json
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.dev.json
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.dll
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.pdb
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.csprojAssemblyReference.cache
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfoInputs.cache
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfo.cs
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.dll
+D:/Cours/5eme Semestre/SQL Server/.Net Core/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.pdb
+/home/infini/Desktop/dotnet/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.csprojAssemblyReference.cache
+/home/infini/Desktop/dotnet/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfoInputs.cache
+/home/infini/Desktop/dotnet/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfo.cs
+/home/infini/Desktop/dotnet/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.dll
+/home/infini/Desktop/dotnet/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.pdb
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.deps.json
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.json
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.dev.json
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.dll
+/home/infini/Desktop/dotnet/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.pdb
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.deps.json
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.json
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.runtimeconfig.dev.json
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.dll
+/home/infini/Desktop/ShootFile/bin/Debug/netcoreapp3.0/ShootFile.pdb
+/home/infini/Desktop/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.csprojAssemblyReference.cache
+/home/infini/Desktop/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfoInputs.cache
+/home/infini/Desktop/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.AssemblyInfo.cs
+/home/infini/Desktop/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.dll
+/home/infini/Desktop/ShootFile/obj/Debug/netcoreapp3.0/ShootFile.pdb
